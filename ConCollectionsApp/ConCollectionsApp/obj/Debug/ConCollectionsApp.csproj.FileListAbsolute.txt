@@ -1,0 +1,2 @@
+E:\FrontEND\DotNetConsole\ConCollectionsApp\ConCollectionsApp\obj\Debug\ConCollectionsApp.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\ConCollectionsApp\ConCollectionsApp\obj\Debug\ConCollectionsApp.csproj.CoreCompileInputs.cache
